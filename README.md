@@ -1,3 +1,9 @@
+[![make.fun · the-passport-page-of-a-countr-2-20261121-0318](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/Azet17/makefun-the-passport-page-of-a-countr-2-20261121-0318/rank.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/Azet17/makefun-the-passport-page-of-a-countr-2-20261121-0318/reward.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+
+Entry for the make.fun bounty: https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318
+
 # The Passport Page of a Country That Does Not Exist
 
 An invented passport spread for the **Republic of Kaldrin** — a small
